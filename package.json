@@ -1,0 +1,16 @@
+{
+  "name": "boilerplate-nodejs-telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yura.borue@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "nconf": "^0.7.1",
+    "node-telegram-bot-api": "^0.11.0",
+    "path": "^0.11.14"
+  }
+}
